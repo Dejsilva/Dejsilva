@@ -1,9 +1,7 @@
  Sou o Deivide, moro em São Paulo e estou estudando para me tornar um Desenvolvedor Full Stack! 🚀
 
 <p>
-<h3> Você pode me encontrar aqui 🌏 </h3>
-</p>
-<a href="https://cutt.ly/gjrESaV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/deivide-silva-748175213/" height="30" width="40" /></a>
+
 
 
 <p align="center">
