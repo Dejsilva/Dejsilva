@@ -30,7 +30,7 @@ Privacy
 Security
 Status
 Docs
-Contact GitHub
+Contact GitHub 
 Pricing
 API
 Training
